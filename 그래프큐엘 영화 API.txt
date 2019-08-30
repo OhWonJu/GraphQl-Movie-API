@@ -1,0 +1,11 @@
+디렉토리 내 yarn init
+디스크립션 입력
+리포지토리 url입력
+제작자 입력
+..
+git이랑 연결.
+git init .
+git remote add origin URL~
+git pull origin master.
+
+yarn add grapql-yoga  <- 그래프큐엘 서버 인스톨
